@@ -154,7 +154,7 @@ function checkAns(param, div) {
 
   
     let items = [
-        'Market Wave', 'Harmony', 'Abs-olute', 'MaAaAaAaaaa', 'Just Elite',  'EduHub', 'Anything', `Payne "it's not the years, honey, it's the mileage."`
+        'Market Wave', 'Harmony', 'Abs-olute', 'MaAaAaAaaaa', 'Just Elite',  'EduHub', 'Anything', `Michael "Go ahead, make my day."`
     ];
 
     // document.querySelector(".info").textContent = items.join(" ");
